@@ -8,7 +8,7 @@ This is an E-Commerce Web Application project built with React.js for the fronte
 - Product Catalog: Display a list of products available for purchase.
 - Shopping Cart: Allow users to add products to their cart, update quantities, and remove items.
 - Checkout Process: Guide users through the checkout process including shipping and payment information.
-- Order Management: Allow users to view their order history and track current orders.
+- Order Management: Allow users to view their order history and track current orders. 
 - Admin Panel: Provide administrative capabilities such as managing products, orders, and user accounts.
 
 ## Technologies Used  
